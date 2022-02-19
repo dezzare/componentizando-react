@@ -1,3 +1,12 @@
+# Projeto feito durante Bootcamp dio.me
+## Criando um front-end totalmente componentizado na prática com ReactJS
+Integração com API do github.
+
+
+
+*** A ser editado ***....
+_____________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
