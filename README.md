@@ -16,11 +16,7 @@ Algumas alterações foram feitas, além do que foi sugerido pelo instrutor.
 
 - Ajustado espaçamento dos blocos de repositórios, para ficarem alinhado com o resto dos componentes
 
-
-
-![Demonstração](/home/pedro/Documentos/Dev/Projetos%20no%20Github/outros/componentizando-react/ss-componentizando.png)
-
-
+![Demonstração](https://github.com/dezzare/componentizando-react/blob/main/ss-componentizando.png?raw=true)
 
 _____________________________________________________________________
 
