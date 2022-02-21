@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
   display: flex;
   align-items: flex-start;
+  margin-top: 50px;
 `;
 
 export const WrapperInfoUser = styled.div`
@@ -14,6 +15,7 @@ export const WrapperInfoUser = styled.div`
   height: 200px;
 
   h1 {
+    margin-top: 8px;
     font-size: 32px;
     font-weight: bold;
   }

@@ -4,7 +4,7 @@ import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 export const WrapperTabs = styled(Tabs)`
   font-size: 16px;
   width: 100%;
-  margin-top: 16px;
+  margin-top: 26px;
 `;
 
 export const WrapperTabList = styled(TabList)`
@@ -16,17 +16,23 @@ export const WrapperTabList = styled(TabList)`
 WrapperTabList.tabsRole = "TabList";
 
 export const WrapperTab = styled(Tab)`
-  border-radius: 16px;
-  border: 1px solid #ccc;
+  color: rgb(108, 117, 125);
+  border-radius: 0.25rem;
+  border: 1px solid #6c757d;
   padding: 16px;
   user-select: none;
   cursor: pointer;
   z-index: 99999;
   background-color: "#fff";
   margin: 8px;
-
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   &:focus {
     outline: none;
+  }
+
+  &:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
   }
 
   &.is-selected {
