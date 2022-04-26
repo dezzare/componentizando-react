@@ -1,6 +1,6 @@
 # Front componentizado com React + API do Github
 
-#### Criando um front-end totalmente componentizado na prática com ReactJS, durante o Bootcamp Eduzz Fullstack Developer #3 no dio.me.
+#### Criando um front-end totalmente componentizado na prática com ReactJS, durante o bootcamp no dio.me.
 
 Algumas alterações foram feitas, além do que foi sugerido pelo instrutor.
 
